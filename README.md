@@ -20,4 +20,5 @@ The repository aims to store various data visualisation with python, which inclu
 08.	Pie chart
 
 09. Heat Map
+
 <img src = 'Heat Map of Iris Features.png'>Scatterplots<img>
