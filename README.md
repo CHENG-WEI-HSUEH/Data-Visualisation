@@ -4,10 +4,10 @@ The repository aims to store various data visualisation with python, which inclu
 <img src = 'Scatter of Iris Features.png'>Scatterplots<img>
 
 02.	Bubble chart
-<img src = 'Bubble Chart of Iris Features.png'>Scatterplots<img>
+<img src = 'Bubble Chart of Iris Features.png'>Bubble chart<img>
 
 03.	Line graph
-<img src = 'Line Graph of Rainfall In UK.png'>Scatterplots<img>
+<img src = 'Line Graph of Rainfall In UK.png'>Line graph<img>
 
 04.	Radar chart
 
@@ -21,4 +21,4 @@ The repository aims to store various data visualisation with python, which inclu
 
 09. Heat Map
 
-<img src = 'Heat Map of Iris Features.png'>Scatterplots<img>
+<img src = 'Heat Map of Iris Features.png'>Heat Map<img>
