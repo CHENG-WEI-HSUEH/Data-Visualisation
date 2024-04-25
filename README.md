@@ -15,11 +15,11 @@ The repository aims to store various data visualisation with python, which inclu
 05.	Histogram
 <img src = 'Histogram.png'>Histogram of Rainfall in UK<img>
 
-06.	BoxploT
-<img src = 'Radar Chart.png'>Radar chart of Rainfall in UK<img>
+06.	Boxplot
+<img src = 'Boxplot.png'>Radar chart of Rainfall in UK<img>
 
 07.	Pie chart
-<img src = 'Pie chart of Player Attributes.png'>Pie chart<img>
+<img src = 'Pie chart.png'>Pie chart<img>
 
 08. Heat Map
 <img src = 'Heat Map of Iris Features.png'>Heat Map<img>
