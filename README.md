@@ -10,6 +10,7 @@ The repository aims to store various data visualisation with python, which inclu
 <img src = 'Line Graph of Rainfall In UK.png'>Line graph<img>
 
 04.	Radar chart
+<img src = 'Radar Chart of Player Attributes.png'>Line graph<img>
 
 05.	Histogram
 
